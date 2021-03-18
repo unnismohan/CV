@@ -3,5 +3,5 @@ Experienced Senior Implementation Engineer with a demonstrated history of workin
 
 [Email](mailto:unnismohan@gmail.com) / [LinkedIn](https://www.linkedin.com/in/unni-s-mohan/) / [GitHub](https://github.com/unnismohan) 
 
-##🏼‍💻 Technical Experience
+## 💻 Technical Experience
 **Senior Implementation Engineer** @ [6D Technologies](https://6dtech.co.in/) _(June 2012 - Present)_ <br>
