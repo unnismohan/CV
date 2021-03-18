@@ -18,7 +18,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 ## 💬 Languages
 
 **Malayalam**: Native <br>
-**English**
+**English**,
 **Hindi**
 <br><br>
 
