@@ -15,17 +15,17 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 <br><br>
   ### 🏆 Projects
    #### MPWR -Digital BSS 
-      **Digital Bss Solution** custom tailored to meet the modern customer requirments . Involved in the design development ,testing and delivery of followwing sub systems.
+   **Digital Bss Solution** custom tailored to meet the modern customer requirments . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management
       Client INDOSAT 
       Location Indonesia
    #### Nedaa -Enterprise BSS
-      **Enterprise Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
+   **Enterprise Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management
         Client Nedaa 
         Location Dubai
    #### APUA -BSS
-      **Triple Play  Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
+   **Triple Play  Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management,SMSC,USSD,Device Management,OCS,OFCS,PCRF,E-recharge
         Client APUA 
         Location Antigua and Barbuda
