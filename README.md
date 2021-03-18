@@ -15,4 +15,14 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 
 <br><br>
 
+## 💬 Languages
 
+**Malayalam**: Native <br>
+**English**: A2.2
+**Hindi**: A2.2
+<br><br>
+
+## 🎓 Education
+
+**12-week intensive coding course** focused on full-stack JavaScript<br>
+[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
