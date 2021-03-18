@@ -14,7 +14,11 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - **_Technologies/Tools used:_** Linux , Bash scripting , Python , Mysql , Oracle , Jmeter , Postman , Diameter , Camel , node Js 
 
 <br><br>
+## 🏆 Projects
+  ### MPWR -Digital BSS
+    Digital Bss Product 
 
+<br><br>
 ## 💬 Languages
 
 **Malayalam**: Native <br>
@@ -22,7 +26,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 **Hindi**
 <br><br>
 
-## 🎓 Education
+## 👩🏼‍🎓 Education
 
 **Btech** Electronics and Communication<br>
 [College of Engineering Poonjar](http://www.cep.ac.in/) - Kottayam,Kerala _(Jun 2008 - May 2012)_ <br>
