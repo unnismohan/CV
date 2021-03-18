@@ -3,7 +3,7 @@ Experienced Senior Implementation Engineer with a demonstrated history of workin
 
 [Email](mailto:unnismohan@gmail.com) / [LinkedIn](https://www.linkedin.com/in/unni-s-mohan/) / [GitHub](https://github.com/unnismohan) 
 
-## 💻 Technical Experience
+## 👩🏼‍💻  Technical Experience
 **Senior Implementation Engineer** @ [6D Technologies](https://6dtech.co.in/) _(June 2012 - Present)_ <br>
 Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - Conducted interviews with key business users to collect information on business processes and user requirements
