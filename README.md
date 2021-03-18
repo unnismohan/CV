@@ -18,8 +18,8 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 ## 💬 Languages
 
 **Malayalam**: Native <br>
-**English**: A2.2
-**Hindi**: A2.2
+**English**
+**Hindi**
 <br><br>
 
 ## 🎓 Education
