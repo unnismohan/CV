@@ -17,28 +17,28 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   #### MPWR -Digital BSS 
    **Digital Bss Solution** custom tailored to meet the modern customer requirments . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management
-      Client INDOSAT 
-      Location Indonesia
+     Client INDOSAT 
+     Location Indonesia
    #### Nedaa -Enterprise BSS
    **Enterprise Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management
-        Client Nedaa 
-        Location Dubai (ONSITE)
+       Client Nedaa 
+       Location Dubai (ONSITE)
    #### APUA -BSS
    **Triple Play  Bss Solution** .for GSM (3g and 4G) , FXL and Broad Band. Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management,SMSC,USSD,Device Management,OCS,OFCS,PCRF,E-recharge,IVR
-        Client APUA 
-        Location Antigua and Barbuda (ONSITE)
+       Client APUA 
+       Location Antigua and Barbuda (ONSITE)
    #### TC - BSS
    **Non GSM Bss Solution** . for FXL and Broad band I.nvolved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management
-        Client Telecom Cambodia 
-        Location Cambodia (ONSITE)
+       Client Telecom Cambodia 
+       Location Cambodia (ONSITE)
    #### HOSTED MVNO SOLUTIONS
    **MVNO OSS/BSS/VAS Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
         - SMSC,MMSC,Mediation,BIlling ,CRM,Call controll,Voicemail 
-        Client Globecomm
-        Location USA
+       Client Globecomm
+       Location USA
 <br><br>
 ## 💬 Languages
 
