@@ -17,27 +17,27 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   #### MPWR -Digital BSS 
    **Digital Bss Solution** custom tailored to meet the modern customer requirments . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
-     Client INDOSAT 
+     Client INDOSAT <br>
      Location Indonesia
    #### Nedaa -Enterprise BSS
    **Enterprise Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
-       Client Nedaa 
+       Client Nedaa <br>
        Location Dubai (ONSITE)
    #### APUA -BSS
    **Triple Play  Bss Solution** .for GSM (3g and 4G) , FXL and Broad Band. Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management,SMSC,USSD,Device Management,OCS,OFCS,PCRF,E-recharge,IVR <br>
-       Client APUA 
+       Client APUA <br>
        Location Antigua and Barbuda (ONSITE)
    #### TC - BSS
    **Non GSM Bss Solution** . for FXL and Broad band I.nvolved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
-       Client Telecom Cambodia 
+       Client Telecom Cambodia <br>
        Location Cambodia (ONSITE)
    #### HOSTED MVNO SOLUTIONS
    **MVNO OSS/BSS/VAS Solution** . Involved in the design development ,testing and delivery of followwing sub systems. <br>
-        - SMSC,MMSC,Mediation,BIlling ,CRM,Call controll,Voicemail 
-       Client Globecomm
+        - SMSC,MMSC,Mediation,BIlling ,CRM,Call controll,Voicemail <br>
+       Client Globecomm<br>
        Location USA
 <br><br>
 ## 💬 Languages
