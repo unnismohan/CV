@@ -34,7 +34,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
         - CRM,Products Catalogue,Mediation,Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management
         Client Telecom Cambodia 
         Location Cambodia (ONSITE)
-    #### HOSTED MVNO SOLUTIONS
+   #### HOSTED MVNO SOLUTIONS
    **MVNO OSS/BSS/VAS Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
         - SMSC,MMSC,Mediation,BIlling ,CRM,Call controll,Voicemail 
         Client Globecomm
