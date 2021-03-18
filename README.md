@@ -13,7 +13,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - Installed, configured, evaluated and maintained operating systems, application software and system management tools.
   - **_Technologies/Tools used:_** Linux , Bash scripting , Python , Mysql , Oracle , Jmeter , Postman , Diameter , Camel , node Js 
 <br><br>
-  ### 🏆 Projects
+## 🏆 Projects
   #### MPWR -Digital BSS 
    **Digital Bss Solution** custom tailored to meet the modern customer requirments . Involved in the design development ,testing and delivery of followwing sub systems.
         - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
