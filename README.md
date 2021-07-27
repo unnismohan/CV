@@ -35,21 +35,21 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 
 
 ### APUA -BSS  |  **_Client APUA  Location Antigua and Barbuda (ONSITE)_**
-**Triple Play  Bss Solution** .for GSM (3g and 4G) , FXL and Broad Band. Involved in the design development ,testing and delivery of followwing sub systems.
+**Triple Play  Bss Solution** for GSM (3g and 4G) , FXL and Broad Band. Involved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management,SMSC,USSD,Device Management,OCS,OFCS,PCRF,E-recharge,IVR <br>
 
 
 
 ### TC - BSS  |  **_Client Telecom Cambodia  Location Cambodia (ONSITE)_**
-**Non GSM Bss Solution** . for FXL and Broad band I.nvolved in the design development ,testing and delivery of followwing sub systems.
+**Non GSM Bss Solution**  for FXL and Broad band Involved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
 
 ### SMS BROWSER & GW  |  **_Client Omantel Location Oman (ONSITE)_**
-**SMSC and SMS gw** . Involved in the design development ,testing and delivery of followwing sub systems. <br>
+**SMSC and SMS gw**  Involved in the design development ,testing and delivery of followwing sub systems. <br>
 - SMSC,MESSAGE GATEWAY,MESSAGE ROUTER <br>
 
 ### HOSTED MVNO SOLUTIONS  |  **_Client Globecomm Location USA_**
-**MVNO OSS/BSS/VAS Solution** . Involved in the design development ,testing and delivery of followwing sub systems. <br>
+**MVNO OSS/BSS/VAS Solution**  Involved in the design development ,testing and delivery of followwing sub systems. <br>
 - SMSC,MMSC,Mediation,BIlling ,CRM,Call controll,Voicemail <br>
 
 
