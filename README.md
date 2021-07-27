@@ -44,7 +44,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
 **Non GSM Bss Solution** . for FXL and Broad band I.nvolved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
 
-### SMS BROWSER & GW  |  **_Client Omantel Location Oman (ONSITE)**
+### SMS BROWSER & GW  |  **_Client Omantel Location Oman (ONSITE)_**
 **SMSC and SMS gw** . Involved in the design development ,testing and delivery of followwing sub systems. <br>
 - SMSC,MESSAGE GATEWAY,MESSAGE ROUTER <br>
 
