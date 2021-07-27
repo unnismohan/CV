@@ -11,7 +11,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - Defined enterprise processes and best practices and tailored enterprise processes for applications.
   - Involved in End To End Syte design 
   - Tracking Deliverables and Team management
-  - - **_Technologies/Tools used:_** Scrum , Jira , Python , Mysql , Linux
+  - **_Technologies/Tools used:_** Scrum , Jira , Python , Mysql , Linux
 <br><br>
 **Senior Implementation Engineer** @ [6D Technologies](https://6dtech.co.in/) _(June 2012 - June 2020)_ <br>
 Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
