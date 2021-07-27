@@ -9,7 +9,7 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - Conducted interviews with key business users to collect information on business processes and user requirements
   - Mapped process activities to identify shortfalls and propose options to rectify operational inefficiencies.
   - Defined enterprise processes and best practices and tailored enterprise processes for applications.
-  - Involved in End To End Syte design 
+  - Involved in End To End Sytem design 
   - Tracking Deliverables and Team management
   - **_Technologies/Tools used:_** Scrum , Jira , Python , Mysql , Linux
 
