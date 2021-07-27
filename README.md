@@ -18,7 +18,8 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - Monitored and tested application performance to identify potential bottlenecks, develop solutions, and collaborate with developers on solution implementation
   - Involved in End to End System Design 
   - Installed, configured, evaluated and maintained operating systems, application software and system management tools.
-  - **_Technologies/Tools used:_** Linux , Bash scripting , Python , Mysql , Oracle , Jmeter , Postman , Diameter , Camel , node Js 
+  - maitaning and creating devops pipelines 
+  - **_Technologies/Tools used:_** Linux , Bash scripting , Python , Mysql , Oracle , Jmeter , Postman , Diameter , Camel , node Js , gitlab 
 
 ## 🏆 Projects
 ### MPWR -Digital BSS 
