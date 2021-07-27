@@ -22,35 +22,33 @@ Design, Testing and Delivery of Telecom OSS/BSS and VAS solutions.
   - **_Technologies/Tools used:_** Linux , Bash scripting , Python , Mysql , Oracle , Jmeter , Postman , Diameter , Camel , node Js , gitlab 
 
 ## 🏆 Projects
-### MPWR -Digital BSS 
+### MPWR -Digital BSS    _Client INDOSAT  Location Indonesia_
 **Digital Bss Solution** custom tailored to meet the modern customer requirments . Involved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
 
-_Client INDOSAT <br>Location Indonesia_
 
-### Nedaa -Enterprise BSS
+
+### Nedaa -Enterprise BSS     _Client Nedaa  Location Dubai (ONSITE)_
 **Enterprise Bss Solution** . Involved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
 
-_Client Nedaa <br> Location Dubai (ONSITE)_
 
-### APUA -BSS
+
+### APUA -BSS    _Client APUA  Location Antigua and Barbuda (ONSITE)_
 **Triple Play  Bss Solution** .for GSM (3g and 4G) , FXL and Broad Band. Involved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Selfcare [APP/WEB],Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management,SMSC,USSD,Device Management,OCS,OFCS,PCRF,E-recharge,IVR <br>
 
-_Client APUA <br> Location Antigua and Barbuda (ONSITE)_
 
-### TC - BSS
+
+### TC - BSS    _Client Telecom Cambodia  Location Cambodia (ONSITE)_
 **Non GSM Bss Solution** . for FXL and Broad band I.nvolved in the design development ,testing and delivery of followwing sub systems.
 - CRM,Products Catalogue,Mediation,Billing,Notification Gateway,MIS,APIGW,Order Management,Service Order Management <br>
 
-_Client Telecom Cambodia <br> Location Cambodia (ONSITE)_
 
-### HOSTED MVNO SOLUTIONS
+
+### HOSTED MVNO SOLUTIONS    _Client Globecomm Location USA_
 **MVNO OSS/BSS/VAS Solution** . Involved in the design development ,testing and delivery of followwing sub systems. <br>
 - SMSC,MMSC,Mediation,BIlling ,CRM,Call controll,Voicemail <br>
-
-_Client Globecomm<br>Location USA_
 
 
 ## 💬 Languages
